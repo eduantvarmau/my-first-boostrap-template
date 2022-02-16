@@ -47,3 +47,14 @@ body{
        
 }
 
+.titulopagina{
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing:4px;
+}
+
+.parrafopagina{
+    font-size: 25px;
+    font-weight: lighter;
+    letter-spacing:2px;
+}
