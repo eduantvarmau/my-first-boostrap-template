@@ -4,6 +4,12 @@
     text-align: center;
 }
 
+.nombrePagina{
+    margin-left:15px;
+    margin-right: 15px;
+    
+}
+
 .cards1{
     padding-top: 40px;
     padding-bottom:   50px;
@@ -28,9 +34,8 @@
 }
 
 body{
-    background: #B79891;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #94716B, #B79891);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #94716B, #B79891); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-image:url(../w1.jpg);
+    
 
     
 
